@@ -68,3 +68,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+PROJECT INSTALLATIONS
+
+## CREATE A REACT JS PROJECT ##
+     npx create-react-app client
+
+## INSTALL REACT ICONS##
+    npm i react-icons --force
+
+
+## INSTALL BOOTSTRAP ##
+    npm i bootstrap@5.3.3
+
+    INCLUDE THE LINKS
+
+
+    search box shadow generator 
+
+
+    Visit react icons 
+
+    Before you deploy your react codes make sure to npm run build and then your app will be ready for deployment
+
+    Upload the build folder to the server
+
+    Use Netlify to upload your projects online
+    
